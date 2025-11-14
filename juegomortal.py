@@ -1,4 +1,4 @@
-input("precione enter para empezar")
+input("presione enter para empezar")
 opcion_menu = 0
 cuentas = {"sebas" : "123"}
 sesion_iniciada = "off"
